@@ -36,11 +36,6 @@ problems:
     name: 遞迴的足跡 (Footsteps of Recursion) 
     points: 30
     timeout: 1
-    forbidden:
-    - for
-    - while
-    - do
-    - goto
     required:
     - fib
   p5:
